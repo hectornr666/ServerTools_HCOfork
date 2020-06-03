@@ -22,11 +22,11 @@ Tool Name="DiscordConnect" Enable="True" Webhook_Key="https://discordapp.com/api
 <br><br><b>Remove or disable</b>:
 <br>Tool Name="Kill_Notice" Enable="False" />
 <br>
+<br>
+<br>
 <b><a href="https://discordapp.com/oauth2/authorize?client_id=372686901972303872&permissions=0&scope=bot">Invite the Discord Bot -> HectoBOT</a>
 <br>
 Start the server as you did already 10.000 times before.<br>
-<br>
-<br>
 <br>
 # Current-Tools-and-Features
 <br>
