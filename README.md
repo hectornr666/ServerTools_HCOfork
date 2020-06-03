@@ -9,6 +9,7 @@ Since this is only a modifcation of ServerTools, first install latest files of S
 Replace the ServerTools.dll with my files from:
 https://github.com/hectornr666/ServerTools_HCOfork/releases
 <br>
+<b>i am using another harmony version than OC, if you like to use the tested version, please download and override with: -> <a href="https://github.com/pardeike/Harmony/releases/tag/v1.2.0.1">0Harmony.dll v.1.2.0.1</a>
 <h1>Editing the ServerToolsConfig.xml</h1>
 <b>AGAIN: The mod will keep all existing config files and will work with ServerTools 18.3.1.</b>
 <br><br><b>Update</b> following line:
@@ -55,6 +56,6 @@ Start the server as you did already 10.000 times before.<br>
  #Greetings to:
  <br>OC
  <br>dmustanger
- <br>pardeike<a href="https://github.com/pardeike/Harmony/releases/tag/v1.2.0.1">0Harmony.dll v.1.2.0.1</a>
+ <br>pardeike
  <br>and mighty dutchman - stay safe!
  
