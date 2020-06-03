@@ -1,4 +1,4 @@
-#HB edition: 7dtd-ServerTools
+# HB edition: 7dtd-ServerTools
 This version is based on OC's well-known Server tools for 7 days to die dedicated servers<br>
 <br>
 # Installation
