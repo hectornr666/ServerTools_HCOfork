@@ -14,11 +14,11 @@ https://github.com/hectornr666/ServerTools_HCOfork/releases
 <br><b>Tool Name="Damage_Detector" Enable="True"</b><br>
 Tool Name="Damage_Detector" Enable="True" Entity_Damage_Limit="500" Block_Damage_Limit="3000" Admin_Level="0" ReportOnHit="False" ReportOnKill="False" IngamePrefix="[00AE00][DMG-RPRT]:" SendToGlobalChat="True" SendToDiscordIfDCenabled="True" Discord_PostingFormat="2"/>
 
-<b>Add</b> following lines to your existing 
+<br><br><b>Add</b> following lines to your existing 
 <br>
 Tool Name="DiscordConnect" Enable="True" Webhook_Key="https://discordapp.com/api/webhooks/<KEY>" SpamChat="True" Discord_PostingFormat="4" SendServerToolsMSG="True" />
 
-<b>Remove of disable</b>:
+<br><br><b>Remove of disable</b>:
 <br>Tool Name="Kill_Notice" Enable="False" />
 <br>
 <b>Invite the Discord Bot -> HectoBOT
