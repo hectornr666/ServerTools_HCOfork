@@ -1,19 +1,27 @@
 # 7dtd-ServerTools
-Server tools for 7 days to die dedicated servers<br>
+This version is based on OC's well-known Server tools for 7 days to die dedicated servers<br>
 <br>
 # Installation
 <br>
-Go to the releases tab and check for the latest files https://github.com/dmustanger/7dtd-ServerTools/releases <br>
+Since this is only a modifcation of ServerTools, first install latest files of ServerTools from OC's publib GitHub repo: https://github.com/dmustanger/7dtd-ServerTools/releases <br>
 <br>
-Download and extract the files.<br>
+Replace the ServerTools.dll with my files from:
+https://github.com/hectornr666/ServerTools_HCOfork/releases
 <br>
-Copy the Mods folder to the root directory of your server.<br>
+Update folling Line:
+<b><Tool Name="Damage_Detector" Enable="True"</b>
+<Tool Name="Damage_Detector" Enable="True" Entity_Damage_Limit="500" Block_Damage_Limit="3000" Admin_Level="0" ReportOnHit="False" ReportOnKill="False" IngamePrefix="[00AE00][DMG-RPRT]:" SendToGlobalChat="True" SendToDiscordIfDCenabled="True" Discord_PostingFormat="2"/>
+
+Add following lines to your existing ServerToolsConfig.xml
+<br>
+<Tool Name="DiscordConnect" Enable="True" Webhook_Key="https://discordapp.com/api/webhooks/<KEY>" SpamChat="True" Discord_PostingFormat="4" SendServerToolsMSG="True" />
+
+Remove of disable:
+<Tool Name="Kill_Notice" Enable="False" />
 <br>
 Start the server.<br>
 <br>
-The mod will auto create the config file in the game save directory.<br>
-Enable each part of the mod you want via ..\your game save directory\ServerTools\ServerToolsConfig.xml<br>
-Once a module is enabled, if it has a config it will auto create them in the ServerTools folder.<br>
+The mod will keep all existing config files and will work with ServerTools 18.3.1.<br>
 <br>
 <br>
 <br>
