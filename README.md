@@ -33,7 +33,7 @@ Tool Name="DiscordConnect" Enable="True" Webhook_Key="https://discordapp.com/api
 <br><li>!servertools
 <br><li>!invite
 <br>
-<br> <b>ToDo</b>: i'll update the documentation soon and hope to send you soon further informations.
+<br> <b>ToDo</b>: i'll update the documentation soon and hope to send you further informations ASAP.
 <br>
 <br>
 # And now ???
