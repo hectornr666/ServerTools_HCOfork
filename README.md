@@ -40,3 +40,11 @@ Start the server as you did already 10.000 times before.<br>
 <br>
 <hr>
  Need support or got some advices ?-> Come to my Discord: https://discord.gg/tTaGtCW
+ 
+ #Credits
+ <br>Greetings to:
+ <br>OC
+ <br>dmustanger
+ <br>pardeike<a href="https://github.com/pardeike/Harmony/releases/tag/v1.2.0.1">0Harmony.dll v.1.2.0.1</a>
+ <br>and mighty dutchman - stay safe!
+ 
