@@ -10,8 +10,8 @@ Replace the ServerTools.dll with my files from:
 https://github.com/hectornr666/ServerTools_HCOfork/releases
 <br>
 <h1>Editing the ServerToolsConfig.xml</h1>
-<b>AGAIN: The mod will keep all existing config files and will work with ServerTools 18.3.1.
-<b>Update</b> following line:
+<b>AGAIN: The mod will keep all existing config files and will work with ServerTools 18.3.1.</b>
+<br><b>Update</b> following line:
 <br><b>Tool Name="Damage_Detector" Enable="True"</b><br>
 Tool Name="Damage_Detector" Enable="True" Entity_Damage_Limit="500" Block_Damage_Limit="3000" Admin_Level="0" ReportOnHit="False" ReportOnKill="False" IngamePrefix="[00AE00][DMG-RPRT]:" SendToGlobalChat="True" SendToDiscordIfDCenabled="True" Discord_PostingFormat="2"/>
 
