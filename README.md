@@ -18,7 +18,7 @@ Tool Name="Damage_Detector" Enable="True" Entity_Damage_Limit="500" Block_Damage
 
 <br><br><b>Add</b> following lines to your existing 
 <br>
-Tool Name="DiscordConnect" Enable="True" Webhook_Key="https://discordapp.com/api/webhooks//<KEY>" SpamChat="True" Discord_PostingFormat="4" SendServerToolsMSG="True" />
+Tool Name="DiscordConnect" Enable="True" Webhook_Key="https://discordapp.com/api/webhooks/your_KEY_here" SpamChat="True" Discord_PostingFormat="4" SendServerToolsMSG="True" />
 
 <br><br><b>Remove or disable</b>:
 <br>Tool Name="Kill_Notice" Enable="False" />
