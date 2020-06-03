@@ -25,6 +25,7 @@ Tool Name="DiscordConnect" Enable="True" Webhook_Key="https://discordapp.com/api
 <br>
 # Discord Bot Integration
 <b><a href="https://discordapp.com/oauth2/authorize?client_id=372686901972303872&permissions=0&scope=bot">Invite the Discord Bot -> HectoBOT</a></b>
+<br> <b>ToDo</b>: i'll update the documentation soon and hope to send you soon further informations.
 <br>
 <br>
 # And now ???
