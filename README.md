@@ -18,7 +18,7 @@ Tool Name="Damage_Detector" Enable="True" Entity_Damage_Limit="500" Block_Damage
 <br>
 Tool Name="DiscordConnect" Enable="True" Webhook_Key="https://discordapp.com/api/webhooks/<KEY>" SpamChat="True" Discord_PostingFormat="4" SendServerToolsMSG="True" />
 
-<br><br><b>Remove of disable</b>:
+<br><br><b>Remove or disable</b>:
 <br>Tool Name="Kill_Notice" Enable="False" />
 <br>
 <b>Invite the Discord Bot -> HectoBOT
